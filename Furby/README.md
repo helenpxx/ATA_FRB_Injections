@@ -1,3 +1,4 @@
+Adapted from https://github.com/vg2691994/Furby
 # Furby
 Mock FRB generator (requires python2.7)
 
